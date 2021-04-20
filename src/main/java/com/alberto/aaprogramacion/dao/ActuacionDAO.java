@@ -1,0 +1,4 @@
+package com.alberto.aaprogramacion.dao;
+
+public class ActuacionDAO {
+}
